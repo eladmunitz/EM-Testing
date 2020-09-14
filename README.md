@@ -10,7 +10,7 @@ I will add more information here as time goes on.
 
 In this file, I will learn markdown. I will learn it by:
 * Practicing
-* Trial and error
+* **Trial and error**
 * Copying examples and seeing their output.
 I will use [this reference](https://guides.github.com/features/mastering-markdown/) as a guide.
 
